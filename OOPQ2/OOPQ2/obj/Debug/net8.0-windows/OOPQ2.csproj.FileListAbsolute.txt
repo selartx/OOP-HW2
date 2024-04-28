@@ -1,0 +1,16 @@
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\bin\Debug\net8.0-windows\OOPQ2.exe
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\bin\Debug\net8.0-windows\OOPQ2.deps.json
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\bin\Debug\net8.0-windows\OOPQ2.runtimeconfig.json
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\bin\Debug\net8.0-windows\OOPQ2.dll
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\bin\Debug\net8.0-windows\OOPQ2.pdb
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.Form1.resources
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.csproj.GenerateResource.cache
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.AssemblyInfoInputs.cache
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.AssemblyInfo.cs
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.csproj.CoreCompileInputs.cache
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.dll
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\refint\OOPQ2.dll
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.pdb
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\OOPQ2.genruntimeconfig.cache
+C:\Users\V I C  T  U S\source\repos\OOPQ2\OOPQ2\obj\Debug\net8.0-windows\ref\OOPQ2.dll
